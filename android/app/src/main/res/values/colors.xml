@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Soft cream, same as the app's light background -->
+    <color name="launch_background">#F7F3EA</color>
+    <!-- Adaptive launcher icon background -->
+    <color name="ic_launcher_background">#4E5D52</color>
+</resources>

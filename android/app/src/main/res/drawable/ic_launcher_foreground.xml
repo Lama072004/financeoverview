@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- App mark: a donut ring like the dashboard's spending chart, inside the 66dp safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M54,38.5 A15.5,15.5 0 0,1 61.75,67.423"
+        android:strokeColor="#F7F3EA"
+        android:strokeWidth="7.8"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M52.38,69.415 A15.5,15.5 0 0,1 38.839,57.223"
+        android:strokeColor="#E09E2D"
+        android:strokeWidth="7.8"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M39.84,47.696 A15.5,15.5 0 0,1 44.889,41.46"
+        android:strokeColor="#C9C52C"
+        android:strokeWidth="7.8"
+        android:strokeLineCap="round" />
+</vector>
